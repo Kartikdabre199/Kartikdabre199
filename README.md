@@ -4,7 +4,6 @@
 <img align ="right" alt ="coding" width="400" src="https://camo.githubusercontent.com/e980be186738d95527c09835a4b363eceefe8750a96b65fd8b1293502de53c9b/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3365393962395f66353361316361623935616534646664393338613162663661316136326634397e6d76322e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikdabre199&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdabre199" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kartikdabre26" target="blank"><img src="https://img.shields.io/twitter/follow/kartikdabre26?logo=twitter&style=for-the-badge" alt="kartikdabre26" /></a> </p>
 
 - 🔭 I’m currently doing Post Graduate in **Data Analytics and Machine Learning**
 
