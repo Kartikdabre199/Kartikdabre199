@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/99672298/186088252-ef41cefc-cda7-49e8-960d-efbd59d3696c.jpg)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Kartik Dabre</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 <img align ="right" alt ="coding" width="400" src="https://camo.githubusercontent.com/e980be186738d95527c09835a4b363eceefe8750a96b65fd8b1293502de53c9b/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3365393962395f66353361316361623935616534646664393338613162663661316136326634397e6d76322e676966">
