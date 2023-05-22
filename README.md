@@ -1,4 +1,4 @@
-![MasterHead]
+![]
 <h1 align="center">Hi 👋, I'm Kartik Dabre</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 <img align ="right" alt ="coding" width="400" src="https://camo.githubusercontent.com/e980be186738d95527c09835a4b363eceefe8750a96b65fd8b1293502de53c9b/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3365393962395f66353361316361623935616534646664393338613162663661316136326634397e6d76322e676966">
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kartikdabre26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikdabre26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kartik-dabre-0a60821a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartik-dabre-0a60821a9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kartik-dabre-0a60821a9" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F59813501292017265%2F&psig=AOvVaw2k6LPPT4FQwqub8SStai13&ust=1684835976953000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMidn6bViP8CFQAAAAAdAAAAABAt" alt="https://www.linkedin.com/in/kartik-dabre-0a60821a9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
