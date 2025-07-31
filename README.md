@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kartik Dabre</h1>
 <h3 align="center">Data Scientist</h3>
-<img align ="right" alt ="coding" width="400" 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikdabre199&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdabre199" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=kartikdabre199&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdabre199" /> </p>
 
 
 - 🔭 I’m currently doing Post Graduate in **Data Analytics and Machine Learning**
